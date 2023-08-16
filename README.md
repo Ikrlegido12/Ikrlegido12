@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IkrlegidO
 - 👀 I’m interested in Java, JavaScript, Python, CSS, HTML and C++
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on WorldParksMc
+- 💞️ CircoAC Manager
 - 📫 Discord: IkrlegidO
 - 🚩 Lang | Country: Spanish and English | Spain 
 
