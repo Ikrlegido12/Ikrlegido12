@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @IkrlegidO
-- 👀 I’m interested in Java, JavaScript, Python, CSS, HTML and C++
-- 🌱 I’m currently learning JavaScript
-- 💞️ CircoAC Manager
+- 👋 Hola, soy @IkrlegidO
+- 👀 Actualmente se un poco de Java, JavaScript, CSS, HTML and Minecraft
+- 🌱 Estoy aprendiendo React.js
+- 💞️ Grupo KILAM
 - 📫 Discord: IkrlegidO
-- 🚩 Lang | Country: Spanish and English | Spain 
+- 🚩 Lang | Country: Spanish and English | Andalûh
 
-<!---
-Ikrlegido12/Ikrlegido12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
