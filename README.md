@@ -7,6 +7,6 @@ Sobre mi:
 - 🚩 Lang | Country: Spanish and English | Andalûh
 
 Redes sociales
-[Twitter/X](https://x.com/@IkrlegidOYT)
-[YouTube](https://youtube.com/@ProfesorIker)
-[Discord](https://discord.gg/GaJuwpeRSQ)
+[Twitter/X](https://x.com/@IkrlegidOYT) 
+[YouTube](https://youtube.com/@ProfesorIker) 
+[Discord](https://discord.gg/GaJuwpeRSQ) 
