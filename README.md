@@ -6,7 +6,4 @@ Sobre mi:
 - 📫 Discord: IkrlegidO
 - 🚩 Lang | Country: Spanish and English | Andalûh
 
-Redes sociales
-[Twitter/X](https://x.com/@IkrlegidOYT) 
-[YouTube](https://youtube.com/@ProfesorIker) 
-[Discord](https://discord.gg/GaJuwpeRSQ) 
+Redes sociales: [Twitter/X](https://x.com/@IkrlegidOYT) - [YouTube](https://youtube.com/@ProfesorIker) - [Discord](https://discord.gg/GaJuwpeRSQ) 
